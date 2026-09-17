@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "CP4.Catalogo.Api\\CP4.Catalogo.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CP4.Catalogo.Web\\CP4.Catalogo.Web.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

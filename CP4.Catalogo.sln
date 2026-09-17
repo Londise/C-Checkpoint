@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP4.Catalogo.Data", "CP4.Catalogo.Data\CP4.Catalogo.Data.csproj", "{B6694306-CC1A-47F5-984C-E203FD8C2CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP4.Catalogo.Api", "CP4.Catalogo.Api\CP4.Catalogo.Api.csproj", "{F3D452E0-DA1F-4531-947A-F0067F09CA30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CP4.Catalogo.Web", "CP4.Catalogo.Web\CP4.Catalogo.Web.csproj", "{CE5EBBDB-E862-4232-B08E-5BD3DE436C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6694306-CC1A-47F5-984C-E203FD8C2CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6694306-CC1A-47F5-984C-E203FD8C2CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6694306-CC1A-47F5-984C-E203FD8C2CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6694306-CC1A-47F5-984C-E203FD8C2CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3D452E0-DA1F-4531-947A-F0067F09CA30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D452E0-DA1F-4531-947A-F0067F09CA30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D452E0-DA1F-4531-947A-F0067F09CA30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D452E0-DA1F-4531-947A-F0067F09CA30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE5EBBDB-E862-4232-B08E-5BD3DE436C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE5EBBDB-E862-4232-B08E-5BD3DE436C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE5EBBDB-E862-4232-B08E-5BD3DE436C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE5EBBDB-E862-4232-B08E-5BD3DE436C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
